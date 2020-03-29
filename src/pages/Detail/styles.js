@@ -26,7 +26,8 @@ export default StyleSheet.create({
     fontWeight: 'bold'
   },
   incidentValue: {
-    marginTop: 8,
+    marginBottom: 8,
+    marginTop: 4,
     fontSize: 15,
     color: '#737380'
   },
